@@ -1,6 +1,6 @@
 {
   "url": "https://mybinder.org/",
-  "repo": "https://github.com/your-username/your-repo",
+  "repo": "https://github.com/ayman107/cpu-72",
   "dependencies": [
     "jupyterlab",
     "numpy",
