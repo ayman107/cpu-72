@@ -1,0 +1,10 @@
+{
+  "url": "https://mybinder.org/",
+  "repo": "https://github.com/your-username/your-repo",
+  "dependencies": [
+    "jupyterlab",
+    "numpy",
+    "pandas"
+  ],
+  "memory": "8G"
+}
